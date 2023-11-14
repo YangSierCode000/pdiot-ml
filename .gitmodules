@@ -1,0 +1,3 @@
+[submodule "pdiot-data"]
+	path = pdiot-data
+	url = git@github.com:specknet/pdiot-data.git
